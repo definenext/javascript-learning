@@ -2,6 +2,7 @@
 
 - What is JavaScript? NodeJS ?
 - Hoisting
+- Global / Local / Block Scope
 - Prototype
 - Closure
 - OOPS Concept
