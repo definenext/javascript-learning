@@ -24,7 +24,11 @@
     - bind()
 
 - Event Loop (Execution Context)
+
   - Tempory Zone
+  - setTimeout()
+  - setInterval()
+
 - Currying
 - == or ===
 - ES6
