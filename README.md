@@ -45,4 +45,8 @@
   - Destructuring
 - Callbacks
 - Promises
+  - Pending
+  - Fullfilled
+  - Reject
+  - Promise.all()
 - Async/Await
